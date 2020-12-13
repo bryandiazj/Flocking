@@ -1,0 +1,87 @@
+﻿  Agent.cpp
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Vector.h(224,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(368,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(368,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(388,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(390,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(407,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(408,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(408,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(409,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(409,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(423,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(424,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(424,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(425,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(425,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(436,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(436,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(437,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(437,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(438,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(438,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(439,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(439,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(443,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(443,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(444,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(444,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(445,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(445,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(446,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(446,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(454,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(454,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(455,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(455,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(456,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(456,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(457,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(457,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(461,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(461,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(462,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(462,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(463,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(463,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(464,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(464,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(488,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(490,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(493,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(495,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(507,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(507,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(513,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(515,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(521,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(521,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(610,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(610,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(617,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(630,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(639,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(639,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(647,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(647,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(650,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(654,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(654,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(660,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(662,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(662,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(663,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(663,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(668,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(668,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(669,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(669,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(674,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(674,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(675,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(675,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(683,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(683,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(684,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\Flocking_example\Flocking_example\Agent.cpp(684,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Flocking_example.vcxproj -> C:\Users\Might\source\repos\Flocking_example\x64\Debug\Flocking_example.exe
